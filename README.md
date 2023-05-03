@@ -5,7 +5,7 @@ Hier findet ihr eine _**Hall of Fame**_ von Schüler:innen-Projekte, die außerh
 ## Method
 
 Um eine Anrechnung für eure privaten Projekte zu erhalten, ist es notwendig erst mit dem Fachbereichsleiter ein kurzes Gespräch zu absolvieren, um den Umfang bzw. die Schwierigkeitsstufe zu evaluieren.  
-Dann einfach das Template-Repository clonen, die eigene Arbeit dorthin commiten und für die _TGM-HIT_ Organisation freischalten. Nach einem Abgabegespräch landet dann das Public-Repository hier in der _**Hall of Fame**_ und du bekommst deinen Reward als zusätzliche Bewertung und Notenverbesserung!
+Dann einfach das [Template-Repository](https://github.com/TGM-HIT/syt-projects-template) verwenden, die eigene Arbeit in das neu erstellte Repository commiten und pushen, sowie für die _TGM-HIT_ Organisation freischalten. Nach einem Abgabegespräch landet dann das Repository hier in der _**Hall of Fame**_ und du bekommst deinen Reward als zusätzliche Bewertung und Notenverbesserung!
 
 ## List of projects
 
