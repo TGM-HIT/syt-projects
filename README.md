@@ -19,7 +19,7 @@ Dann einfach das [Template-Repository](https://github.com/TGM-HIT/syt-projects-t
 | 2022-09-22 | Moritz Mairinger 3BHIT (2022/23) | [7 Segment Output](https://github.com/moritzMairinger/SYT-EK) | **EKv** for using Arduino, 7-Segment Display |
 | 2022-12-14 | Ahuja Ankush 3DHIT (2022/23) | [awesomeAetherized](https://github.com/ahujaankush/awesomeAetherized) | **EKv** for using Linux |
 | 2023-01-11 | Eva Stepanek 2CHIT (2022/23) | [Robocar](https://github.com/estepanek-12/raspberrypi-steuerung-RobotCar) | **EKv** for using Raspberry Pi, Sensoren, Akoren, Linux |
-| 2023-01-20 | Parushev Christian 2CHIT (2022/23) | [Rubber Ducky](Rubber Ducky) | **EKv** for using Scripting Languages |
+| 2023-01-20 | Parushev Christian 2CHIT (2022/23) | [Rubber Ducky](https://github.com/chris-pa21/EK_parushev_rubberducky) | **EKv** for using Scripting Languages |
 | 2023-05-03 | Fuchs Eric 1BHIT (2022/23) | [Pi-Hole](https://github.com/Eric3244/SYTPiHoleFuchs) | **EKv** for using Raspi, Linux |
 
 ## Resources
