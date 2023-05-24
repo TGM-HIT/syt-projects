@@ -7,6 +7,10 @@ Hier findet ihr eine _**Hall of Fame**_ von Schüler:innen-Projekte, die außerh
 Um eine Anrechnung für eure privaten Projekte zu erhalten, ist es notwendig erst mit dem Fachbereichsleiter ein kurzes Gespräch zu absolvieren, um den Umfang bzw. die Schwierigkeitsstufe zu evaluieren.  
 Dann einfach das [Template-Repository](https://github.com/TGM-HIT/syt-projects-template) verwenden, die eigene Arbeit in das neu erstellte Repository commiten und pushen, sowie für die _TGM-HIT_ Organisation freischalten. Nach einem Abgabegespräch landet dann das Repository hier in der _**Hall of Fame**_ und du bekommst deinen Reward als zusätzliche Bewertung und Notenverbesserung!
 
+## Repositories
+Die umgesetzten Projekte sind als Submodules eingehängt (`git submodule add https://github.com/mborko/code-examples`) und verweisen auf die Schüler:innen Repositories. Sollten diese in Zukunft offline gestellt werden, können die bewerteten, lokal geclonten Submodules von den Trainer:innen hochgeladen werden.
+Die lokal gespeicherten Submodules können mit `git submodule update --recursive` refreshed werden.
+
 ## List of projects
 
 | Datum | Name                                   | Project                                           | Credits                                              |
