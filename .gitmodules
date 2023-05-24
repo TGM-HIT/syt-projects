@@ -1,0 +1,3 @@
+[submodule "2ndGrade/raspberrypi-steuerung-RobotCar"]
+	path = 2ndGrade/raspberrypi-steuerung-RobotCar
+	url = https://github.com/estepanek-12/raspberrypi-steuerung-RobotCar
