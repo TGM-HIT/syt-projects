@@ -25,6 +25,15 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-01-11 | Eva Stepanek 2CHIT (2022/23) | [Robocar](https://github.com/estepanek-12/raspberrypi-steuerung-RobotCar) | **EKv** for using Raspberry Pi, Sensoren, Akoren, Linux |
 | 2023-01-20 | Parushev Christian 2CHIT (2022/23) | [Rubber Ducky](https://github.com/chris-pa21/EK_parushev_rubberducky) | **EKv** for using Scripting Languages |
 | 2023-05-03 | Fuchs Eric 1BHIT (2022/23) | [Pi-Hole](https://github.com/Eric3244/SYTPiHoleFuchs) | **EKv** for using Raspi, Linux |
+| 2023-06-07 | Ankush Ahuja 3AHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
+| 2023-06-07 | Leopold Kernegge 3CHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
+| 2023-06-07 | Danko Vujoka 3CHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
+| 2023-06-07 | Vincent Baudisch 3BHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
+| 2023-06-07 | Moritz Mairinger 3BHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
+| 2023-06-07 | Ankush Ahuja 3DHIT (2022/23) | [AetherizedHypr](https://github.com/ahujaankush/AetherizedDots) | **EKv** for Linux, scripting, configuration |
+| 2023-06-07 | Felix Dahmen 3DHIT (2022/23) | [IDKOS](https://github.com/texotek/idkos) | **EKv** for Asembler, Operating Systems |
+
 
 ## Resources
+
 * "Systemtechnik Theorie" [elearning](https://elearning.tgm.ac.at/course/view.php?id=199)
