@@ -33,6 +33,13 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-07 | Ankush Ahuja 3DHIT (2022/23) | [AetherizedHypr](https://github.com/ahujaankush/AetherizedDots) | **EKv** for using Linux, scripting, configuration |
 | 2023-06-07 | Felix Dahmen 3DHIT (2022/23) | [IDKOS](https://github.com/texotek/idkos) | **EKv** for using Asembler, Operating Systems |
 | 2023-06-09 | Andreas Maurer 2CHIT (2022/23) | [Raspi Webserver](https://github.com/chris-pa21/EK_parushev_webserver) | **EKv** for using Linux, Raspi, Webserver |
+| 2023-06-09 | Manuel Durst 3AHIT (2022/23)            | [Sequentail Shifter](https://github.com/MDurst06/SequentialShifter) | **EKv** for using µC, Arduino, 3D Printing |
+| 2023-06-09 | Leopold Kernegger 3CHIT (2022/23)       | [LAMP SSH Fix](https://github.com/fpolichetti/lamp-ssh-fix)  | **EKv** for using Docker, Linux, SSH |
+| 2023-06-09 | Francesco Polichetti 3CHIT (2022/23)    | [LAMP SSH Fix](https://github.com/fpolichetti/lamp-ssh-fix)  | **EKv** for using Docker, Linux, SSH |
+| 2023-06-09 | Marcel Turetschek 3AHIT (2022/23)       | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
+| 2023-06-09 | Felix Aust 3AHIT (2022/23)              | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
+| 2023-06-09 | Hipfinger Florian 3AHIT (2022/23)       | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
+| 2023-06-09 | Thomas Laber 3AHIT (2022/23)            | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
 
 
 ## Resources
