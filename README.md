@@ -30,8 +30,9 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-07 | Danko Vujoka 3CHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
 | 2023-06-07 | Vincent Baudisch 3BHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
 | 2023-06-07 | Moritz Mairinger 3BHIT (2022/23) | [Botball](https://github.com/ahujaankush/botball-tgm-2223/) | **EKv** for Robotics |
-| 2023-06-07 | Ankush Ahuja 3DHIT (2022/23) | [AetherizedHypr](https://github.com/ahujaankush/AetherizedDots) | **EKv** for Linux, scripting, configuration |
-| 2023-06-07 | Felix Dahmen 3DHIT (2022/23) | [IDKOS](https://github.com/texotek/idkos) | **EKv** for Asembler, Operating Systems |
+| 2023-06-07 | Ankush Ahuja 3DHIT (2022/23) | [AetherizedHypr](https://github.com/ahujaankush/AetherizedDots) | **EKv** for using Linux, scripting, configuration |
+| 2023-06-07 | Felix Dahmen 3DHIT (2022/23) | [IDKOS](https://github.com/texotek/idkos) | **EKv** for using Asembler, Operating Systems |
+| 2023-06-09 | Andreas Maurer 2CHIT (2022/23) | [Raspi Webserver](https://github.com/chris-pa21/EK_parushev_webserver) | **EKv** for using Linux, Raspi, Webserver |
 
 
 ## Resources
