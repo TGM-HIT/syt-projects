@@ -40,6 +40,8 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-09 | Felix Aust 3AHIT (2022/23)              | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
 | 2023-06-09 | Hipfinger Florian 3AHIT (2022/23)       | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
 | 2023-06-09 | Thomas Laber 3AHIT (2022/23)            | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
+| 2023-06-12 | Julian Neuwirth 3AHIT (2022/23)            | [uWeather](https://github.com/lstranskyTGM/uWeather)         | **EKv** for using ESP32, Sensors |
+| 2023-06-12 | Leonhard Stransky 3AHIT (2022/23)            | [uWeather](https://github.com/lstranskyTGM/uWeather)         | **EKv** for using ESP32, Sensors |
 
 
 ## Resources
