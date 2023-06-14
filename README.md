@@ -44,6 +44,9 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-12 | Leonhard Stransky 3AHIT (2022/23)            | [uWeather](https://github.com/lstranskyTGM/uWeather)         | **EKv** for using ESP32, Sensors |
 | 2023-06-14 | Polichetti Francesco 3CHIT (2022/23)            | [ESP32 Telegram Bot](https://github.com/fpolichetti/esp32-telegram-bot)         | **EKv** for using ESP32, Wifi |
 | 2023-06-14 | Bauer Kevin 3CHIT (2022/23)            | [ESP32 Telegram Bot](https://github.com/fpolichetti/esp32-telegram-bot)         | **EKv** for using ESP32, Wifi |
+| 2023-06-14 | Rahul Gupta 3DHIT (2022/23)            | [instrusiondetection](https://github.com/rguptasingh/instrusiondetection)         | **EKv** for using ESP32, Mailserver |
+| 2023-06-14 | Rahul Gupta 3DHIT (2022/23)            | [Accessible Spyware](https://github.com/Denzerson1/accessible_KG)         | **EKv** for using C, Low Level Programming |
+| 2023-06-14 | Kural Deniz 3DHIT (2022/23)            | [Accessible Spyware](https://github.com/Denzerson1/accessible_KG)         | **EKv** for using C, Low Level Programming |
 
 ## Resources
 
