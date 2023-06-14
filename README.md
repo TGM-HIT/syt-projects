@@ -42,7 +42,8 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-09 | Thomas Laber 3AHIT (2022/23)            | [GameOn](https://github.com/marcelturetschek/GameOn)         | **EKv** for using Docker, Linux, SSH |
 | 2023-06-12 | Julian Neuwirth 3AHIT (2022/23)            | [uWeather](https://github.com/lstranskyTGM/uWeather)         | **EKv** for using ESP32, Sensors |
 | 2023-06-12 | Leonhard Stransky 3AHIT (2022/23)            | [uWeather](https://github.com/lstranskyTGM/uWeather)         | **EKv** for using ESP32, Sensors |
-
+| 2023-06-14 | Polichetti Francesco 3CHIT (2022/23)            | [ESP32 Telegram Bot](https://github.com/fpolichetti/esp32-telegram-bot)         | **EKv** for using ESP32, Wifi |
+| 2023-06-14 | Bauer Kevin 3CHIT (2022/23)            | [ESP32 Telegram Bot](https://github.com/fpolichetti/esp32-telegram-bot)         | **EKv** for using ESP32, Wifi |
 
 ## Resources
 
