@@ -47,6 +47,10 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-14 | Rahul Gupta 3DHIT (2022/23)            | [instrusiondetection](https://github.com/rguptasingh/instrusiondetection)         | **EKv** for using ESP32, Mailserver |
 | 2023-06-14 | Rahul Gupta 3DHIT (2022/23)            | [Accessible Spyware](https://github.com/Denzerson1/accessible_KG)         | **EKv** for using C, Low Level Programming |
 | 2023-06-14 | Kural Deniz 3DHIT (2022/23)            | [Accessible Spyware](https://github.com/Denzerson1/accessible_KG)         | **EKv** for using C, Low Level Programming |
+| 2023-06-16 | Rahul Gupta 3DHIT (2022/23)            | [webtopzombie](https://github.com/rguptasingh/webtopzombie)         | **EKv** for using docker, hacking |
+| 2023-06-16 | Ivan Milev 3DHIT (2022/23)            | [Einparkhilfe](https://github.com/imilev-tgm/Einparkhilfe)         | **EKv** for using arduino, sensor, webserver |
+| 2023-06-16 | Sebastian Sailer 3DHIT (2022/23)            | [Arduino Matrixpad](https://github.com/ssailer1/syt_EK_Sailer)         | **EKv** for using arudino, periverals |
+
 
 ## Resources
 
