@@ -15,8 +15,8 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 
 | Datum | Name                                   | Project                                           | Credits                                              |
 |----| -------------------------------------- | ------------------------------------------------- | ---------------------------------------------------- |
-| | Benjamin Kissinger 3BHIT (2021/22)     | [WRP](https://github.com/bkissinger/WRP)          | **EKv** for using microcontroller, Raspi, MQTT       |
-| | Palmetzhofer Sebastian 3DHIT (2021/22) | [ServoArm](https://github.com/Luciddeft/ServoArm) | **EKv** for using microcontroller, Aktoren, serialIO |
+| 2022-05-30 | Benjamin Kissinger 3BHIT (2021/22)     | [WRP](https://github.com/bkissinger/WRP)          | **EKv** for using microcontroller, Raspi, MQTT       |
+| 2022-05-30 | Palmetzhofer Sebastian 3DHIT (2021/22) | [ServoArm](https://github.com/Luciddeft/ServoArm) | **EKv** for using microcontroller, Aktoren, serialIO |
 | 2023-03-07 | Kernegger Leopold Ruben 3CHIT (2022/23) | [MariaDB Docker Fix](https://github.com/lmuehlboeck/full-sample-db-fix) | **EKv** for using Docker, advanced problem solving skills |
 | 2023-01-23 | Rafeiner Markus 3AHIT (2022/23) | [badSnake_RasPi](https://github.com/Snorlax0815/badSnake_RasPi) | **EKv** for using Linux, Raspi, Matrix HAT |
 | 2023-01-18 | Mühlböck Leo 3CHIT (2022/23) | [Wiener Linien Störungsarchiv](https://github.com/lmuehlboeck/wl-stoerungsarchiv) | **EKv** for using APIs, Docker, Docker Compose |
