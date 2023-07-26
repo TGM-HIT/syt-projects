@@ -1,3 +1,72 @@
 [submodule "2ndGrade/raspberrypi-steuerung-RobotCar"]
 	path = 2ndGrade/raspberrypi-steuerung-RobotCar
 	url = https://github.com/estepanek-12/raspberrypi-steuerung-RobotCar
+[submodule "3rdGrade/WRP"]
+	path = 3rdGrade/WRP
+	url = https://github.com/bkissinger/WRP
+[submodule "3rdGrade/full-sample-db-fix"]
+	path = 3rdGrade/full-sample-db-fix
+	url = https://github.com/lmuehlboeck/full-sample-db-fix
+[submodule "3rdGrade/badSnake_RasPi"]
+	path = 3rdGrade/badSnake_RasPi
+	url = https://github.com/Snorlax0815/badSnake_RasPi
+[submodule "3rdGrade/wl-stoerungsarchiv"]
+	path = 3rdGrade/wl-stoerungsarchiv
+	url = https://github.com/lmuehlboeck/wl-stoerungsarchiv
+[submodule "3rdGrade/SYT-EK"]
+	path = 3rdGrade/SYT-EK
+	url = https://github.com/moritzMairinger/SYT-EK
+[submodule "3rdGrade/awesomeAetherized"]
+	path = 3rdGrade/awesomeAetherized
+	url = https://github.com/ahujaankush/awesomeAetherized
+[submodule "3rdGrade/botball-tgm-2223"]
+	path = 3rdGrade/botball-tgm-2223
+	url = https://github.com/ahujaankush/botball-tgm-2223/
+[submodule "3rdGrade/idkos"]
+	path = 3rdGrade/idkos
+	url = https://github.com/texotek/idkos
+[submodule "3rdGrade/SequentialShifter"]
+	path = 3rdGrade/SequentialShifter
+	url = https://github.com/MDurst06/SequentialShifter
+[submodule "3rdGrade/lamp-ssh-fix"]
+	path = 3rdGrade/lamp-ssh-fix
+	url = https://github.com/fpolichetti/lamp-ssh-fix
+[submodule "3rdGrade/GameOn"]
+	path = 3rdGrade/GameOn
+	url = https://github.com/marcelturetschek/GameOn
+[submodule "3rdGrade/uWeather"]
+	path = 3rdGrade/uWeather
+	url = https://github.com/lstranskyTGM/uWeather
+[submodule "1stGrade/SYTPiHoleFuchs"]
+	path = 1stGrade/SYTPiHoleFuchs
+	url = https://github.com/Eric3244/SYTPiHoleFuchs
+[submodule "2ndGrade/EK_parushev_rubberducky"]
+	path = 2ndGrade/EK_parushev_rubberducky
+	url = https://github.com/chris-pa21/EK_parushev_rubberducky
+[submodule "2ndGrade/EK_parushev_webserver"]
+	path = 2ndGrade/EK_parushev_webserver
+	url = https://github.com/chris-pa21/EK_parushev_webserver
+[submodule "3rdGrade/esp32-telegram-bot"]
+	path = 3rdGrade/esp32-telegram-bot
+	url = https://github.com/fpolichetti/esp32-telegram-bot
+[submodule "3rdGrade/instrusiondetection"]
+	path = 3rdGrade/instrusiondetection
+	url = https://github.com/rguptasingh/instrusiondetection
+[submodule "3rdGrade/accessible_KG"]
+	path = 3rdGrade/accessible_KG
+	url = https://github.com/Denzerson1/accessible_KG
+[submodule "3rdGrade/webtopzombie"]
+	path = 3rdGrade/webtopzombie
+	url = https://github.com/rguptasingh/webtopzombie
+[submodule "3rdGrade/Einparkhilfe"]
+	path = 3rdGrade/Einparkhilfe
+	url = https://github.com/imilev-tgm/Einparkhilfe
+[submodule "3rdGrade/syt_EK_Sailer"]
+	path = 3rdGrade/syt_EK_Sailer
+	url = https://github.com/ssailer1/syt_EK_Sailer
+[submodule "3rdGrade/ESP32_Whatsapp_Sensor"]
+	path = 3rdGrade/ESP32_Whatsapp_Sensor
+	url = https://github.com/aaabdulkarim/ESP32_Whatsapp_Sensor
+[submodule "3rdGrade/AetherizedDots"]
+	path = 3rdGrade/AetherizedDots
+	url = https://github.com/ahujaankush/AetherizedDots
