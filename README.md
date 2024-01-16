@@ -51,6 +51,7 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-16 | Ivan Milev 3DHIT (2022/23)            | [Einparkhilfe](https://github.com/imilev-tgm/Einparkhilfe)         | **EKv** for using arduino, sensor, webserver |
 | 2023-06-16 | Sebastian Sailer 3DHIT (2022/23)            | [Arduino Matrixpad](https://github.com/ssailer1/syt_EK_Sailer)         | **EKv** for using arudino, periverals |
 | 2023-06-16 |  Abdulkarim Amadeus 3CHIT (2022/23)            | [ESP32 Whatsapp Sensor](https://github.com/aaabdulkarim/ESP32_Whatsapp_Sensor)         | **EKv** for using ESP32, HTTP |
+| 2024-01-16 |  Martin Simov 3BHIT (2023/24)            | [ESP32 HTTP Server](https://github.com/martinsmv/HTTPAusgabe)         | **EKv** for using ESP32, HTTP |
 
 
 ## Resources
