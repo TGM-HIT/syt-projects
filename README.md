@@ -53,6 +53,7 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-16 |  Abdulkarim Amadeus 3CHIT (2022/23)            | [ESP32 Whatsapp Sensor](https://github.com/aaabdulkarim/ESP32_Whatsapp_Sensor)         | **EKv** for using ESP32, HTTP |
 | 2024-01-16 |  Martin Simov 3BHIT (2023/24)            | [ESP32 HTTP Server](https://github.com/martinsmv/HTTPAusgabe)         | **EKv** for using ESP32, HTTP |
 | 2024-01-22 | Oliver Schindler 2CHIT (2023/24)            | [Bad USB Flipper](https://github.com/OlivenRitter123/Flipper_EK)         | **EKv** for using Hacking Tools |
+| 2024-01-23 | Martin Simov 3BHIT (2023/24)            | [Whatsapp Bewegungsmelder](https://github.com/martinsmv/Bewegungsmelder)         | **EKv** for using ESP32, Sensors, IoT |
 
 
 ## Resources
