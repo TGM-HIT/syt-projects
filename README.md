@@ -54,6 +54,7 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2024-01-16 |  Martin Simov 3BHIT (2023/24)            | [ESP32 HTTP Server](https://github.com/martinsmv/HTTPAusgabe)         | **EKv** for using ESP32, HTTP |
 | 2024-01-22 | Oliver Schindler 2CHIT (2023/24)            | [Bad USB Flipper](https://github.com/OlivenRitter123/Flipper_EK)         | **EKv** for using Hacking Tools |
 | 2024-01-23 | Martin Simov 3BHIT (2023/24)            | [Whatsapp Bewegungsmelder](https://github.com/martinsmv/Bewegungsmelder)         | **EKv** for using ESP32, Sensors, IoT |
+| 2024-01-25 | Chladek Simon 3DHIT (2023/24)            | [Metronom](https://github.com/schlad3k/Metronom/)         | **EKv** for using ESP32, Speaker |
 
 
 ## Resources
