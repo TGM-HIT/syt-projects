@@ -55,6 +55,18 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2024-01-22 | Oliver Schindler 2CHIT (2023/24)            | [Bad USB Flipper](https://github.com/OlivenRitter123/Flipper_EK)         | **EKv** for using Hacking Tools |
 | 2024-01-23 | Martin Simov 3BHIT (2023/24)            | [Whatsapp Bewegungsmelder](https://github.com/martinsmv/Bewegungsmelder)         | **EKv** for using ESP32, Sensors, IoT |
 | 2024-01-25 | Chladek Simon 3DHIT (2023/24)            | [Metronom](https://github.com/schlad3k/Metronom/)         | **EKv** for using ESP32, Speaker |
+| 2024-04-23 | BATAEV SULIMAN, ELIAS DANZINGER 2DHIT (2023/24)            | [TOR Projekt](https://github.com/ObamaSuli/ESP32_TOR_Projekt)         | **EKv** for using ESP32, Webserver, Telegrambot, Sensoren |
+| 2024-05-07 | Stefan Kordov 2DHIT (2023/24)            | Tür Klinge         | **EKv** for using ESP32, Sensoren, Aktoren  |
+| 2024-05-01 | Akhmadov Khasu 2DHIT (2023/24)            | ESP32 Wetterstation         | **EKv** for using ESP32, Sensoren, Webserver |
+| 2024-04-19 | Hofbauer Elias, Dario Cikojevic 2CHIT (2023/24)            | ESP Fan Control       | **EKv** for using ESP32, PWM, Aktoren |
+| 2024-04-15 |  PHILIP DJURAK HIT (2023/24)            | Snake         | **EKv** for using ESP32, Display, Buttons |
+| 2024-05-13 |  Stepanek Eva 3CHIT (2023/24)            | Pi Robot Obstacle Avoiding         | **EKv** for using Raspberry Pi, Mobile Robot, Sensors |
+| 2024-05-13 | Stepanek Eva 3CHIT (2023/24)            | Serververwaltung        | **EKv** for using Linux Servers, Monitoring Tools |
+| 2024-05-14 |  Puerto Franz 3DHIT (2023/24)            | TLS Certificate         | **EKv** for using Linux Servers, TLS Certificats |
+| 2024-05-14 |  Schmid Felix HIT (2023/24)            |  Reverse Proxy Server        | **EKv** for Reverse Proxy, SSL |
+| 2024-05-28 |  Timon Hollaus HIT (2023/24)            | [WC Spülung](https://github.com/TimonHollaus/Automatisierte-WC-Spuelung)         | **EKv** for using ESP32, Sensors |
+| 2024-0- |  HIT (2023/24)            | []()         | **EKv** for using  |
+
 
 
 ## Resources
