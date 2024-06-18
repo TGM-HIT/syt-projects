@@ -65,6 +65,9 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2024-05-14 |  Puerto Franz 3DHIT (2023/24)            | TLS Certificate         | **EKv** for using Linux Servers, TLS Certificats |
 | 2024-05-14 |  Schmid Felix HIT (2023/24)            |  Reverse Proxy Server        | **EKv** for Reverse Proxy, SSL |
 | 2024-05-28 |  Timon Hollaus HIT (2023/24)            | [WC Spülung](https://github.com/TimonHollaus/Automatisierte-WC-Spuelung)         | **EKv** for using ESP32, Sensors |
+| 2024-06-16 | Raphael Troppman 2DHIT (2023/24)            | [Minecraft Server](https://github.com/xRaphi/MinecraftServerEK)         | **2 EKv** for using Servers, Linux, Docker |
+| 2024-06-16 | Raphael Troppman 2DHIT (2023/24)            | [Flipper](https://github.com/xRaphi/FlipperEK)         | **EKv** for using Hacking Tools, Scripts |
+| 2024-06-10 | Christian Parushev 3CHIT (2023/24)            | [Bash Bunny](https://github.com/chris-pa21/bashbunny)         | **EKv** for using Hacking Tools, Scripts |
 | 2024-0- |  HIT (2023/24)            | []()         | **EKv** for using  |
 
 
